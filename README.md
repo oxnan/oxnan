@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @oxnan
+- 👀 I’m a fucking CTF player
+- 🌱 I’m currently learning everything I can
+- 📫 How to reach me: OSINT
